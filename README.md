@@ -1,2 +1,2 @@
-![snake gif](https://github.com/sonphicts/sonphicts/blob/output/ocean.svg)
+![snake gif](https://github.com/sonphicts/sonphicts/blob/output/ocean.gif)
 
